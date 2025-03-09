@@ -1,0 +1,167 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Samsung Galaxy S23 Ultra",
+        "brand": "Samsung",
+        "price": "119999",
+        "description": "Samsung Galaxy S23 Ultra with 200MP camera and Snapdragon 8 Gen 2.",
+        "category": "Mobile",
+        "image": "https://m.media-amazon.com/images/I/71lD7eGdW-L.jpg"
+      },
+      {
+        "id": 2,
+        "name": "iPhone 15 Pro Max",
+        "brand": "Apple",
+        "price": "134999",
+        "description": "Apple iPhone 15 Pro Max with A17 Bionic chip and titanium frame.",
+        "category": "Mobile",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6jAzwWm-wBzT-2GgpOAzca4qKaCDOtC7M3g&s"
+      },
+      {
+        "id": 3,
+        "name": "OnePlus 11",
+        "brand": "OnePlus",
+        "price": "64999",
+        "description": "OnePlus 11 with Snapdragon 8 Gen 2 and Hasselblad cameras.",
+        "category": "Mobile",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjJICous8UBjxQvyoKW-a3BNkdfT50k0HxPQ&s"
+      },
+      {
+        "id": 4,
+        "name": "Google Pixel 7 Pro",
+        "brand": "Google",
+        "price": "84999",
+        "description": "Google Pixel 7 Pro with Tensor G2 chip and 50MP camera.",
+        "category": "Mobile",
+        "image": "https://rukminim3.flixcart.com/image/850/1000/xif0q/mobile/t/u/m/-original-imaggsuehy3nyj3b.jpeg?q=90&crop=false"
+      },
+      {
+        "id": 5,
+        "name": "Xiaomi 13 Pro",
+        "brand": "Xiaomi",
+        "price": "79999",
+        "description": "Xiaomi 13 Pro with Leica-powered 1-inch camera sensor.",
+        "category": "Mobile",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdKKEKHEY-R1jw4uKrziD_4UxbDS4ej3UoiA&s"
+      },
+      {
+        "id": 6,
+        "name": "Realme GT 3",
+        "brand": "Realme",
+        "price": "54999",
+        "description": "Realme GT 3 with 240W fast charging and Snapdragon 8+ Gen 1.",
+        "category": "Mobile",
+        "image": "https://www.gizmochina.com/wp-content/uploads/2023/02/Realme-GT3-500x500.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Asus ROG Phone 7",
+        "brand": "Asus",
+        "price": "99999",
+        "description": "Gaming-focused Asus ROG Phone 7 with 165Hz AMOLED display.",
+        "category": "Mobile",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLhAW50vDZ2PlmEaxyGYBkc4zl1sjzXHh10ak7AzdsMSpqwOFCTBxKzyZFnxhPzVp781g&usqp=CAU"
+      },
+      {
+        "id": 8,
+        "name": "Samsung Galaxy Z Fold 4",
+        "brand": "Samsung",
+        "price": "179999",
+        "description": "Samsung Galaxy Z Fold 4 with foldable AMOLED screen.",
+        "category": "Mobile",
+        "image": "https://ampro.in/wp-content/uploads/2024/12/Samsung-Galaxy-Z-Fold4-5G-1-1.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Silicone Case for iPhone 15 Pro",
+        "brand": "Generic",
+        "price": "1999",
+        "description": "Premium silicone case for iPhone 15 Pro with soft-touch finish.",
+        "category": "Backcover",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBx_XTOqiYm2uDt7mz6xixJnzKBRRUneujaA&s"
+      },
+      {
+        "id": 10,
+        "name": "Transparent Case for Samsung S23 Ultra",
+        "brand": "Generic",
+        "price": "1499",
+        "description": "Crystal-clear transparent case for Samsung S23 Ultra with shockproof edges.",
+        "category": "Backcover",
+        "image": "https://i.ebayimg.com/images/g/XkQAAOSwTGtj24gG/s-l400.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Leather Case for OnePlus 11",
+        "brand": "Generic",
+        "price": "2499",
+        "description": "High-quality leather case for OnePlus 11 with premium finish.",
+        "category": "Backcover",
+        "image": "https://m.media-amazon.com/images/I/71oBfCLKlZL.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Armor Case for Google Pixel 7 Pro",
+        "brand": "Generic",
+        "price": "2999",
+        "description": "Military-grade protection Armor Case for Google Pixel 7 Pro.",
+        "category": "Backcover",
+        "image": "https://m.media-amazon.com/images/I/71lSBQCLooL.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Slim Case for Xiaomi 13 Pro",
+        "brand": "Generic",
+        "price": "1299",
+        "description": "Ultra-thin, stylish case for Xiaomi 13 Pro with lightweight design.",
+        "category": "Backcover",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHQbbbDB7YFsZYjr6SQS1oX60kcXPfclEvug&s"
+      },
+      {
+        "id": 14,
+        "name": "Flip Cover for Vivo X90 Pro",
+        "brand": "Generic",
+        "price": "2199",
+        "description": "Premium leather flip cover for Vivo X90 Pro with card slots.",
+        "category": "Backcover",
+        "image": "https://img.myipadbox.com/sec/product_l/EDA004144905F.jpg"
+      },
+      {
+        "id": 15,
+        "name": "9H Tempered Glass for iPhone 15 Pro",
+        "brand": "TemperedGuard",
+        "price": "999",
+        "description": "Ultra-clear 9H hardness tempered glass for iPhone 15 Pro.",
+        "category": "Tempered Glass",
+        "image": "https://m.media-amazon.com/images/I/71bsV85c-bL.jpg"
+      },
+      {
+        "id": 16,
+        "name": "Edge-to-Edge Tempered Glass for Samsung S23",
+        "brand": "TemperedGuard",
+        "price": "1299",
+        "description": "Full-screen edge-to-edge tempered glass for Samsung S23 with anti-scratch coating.",
+        "category": "Tempered Glass",
+        "image": "https://m.media-amazon.com/images/I/61z44uMLiZL._AC_UF1000,1000_QL80_.jpg"
+      },
+      {
+        "id": 17,
+        "name": "Privacy Glass for Google Pixel 7",
+        "brand": "TemperedGuard",
+        "price": "1699",
+        "description": "Privacy-focused tempered glass for Google Pixel 7 with anti-spy protection.",
+        "category": "Tempered Glass",
+        "image": "https://img.myipadbox.com/upload/store/product_l/EDA005237601.jpg"
+      },
+      {
+        "id": 18,
+        "name": "Matte Finish Glass for OnePlus 11",
+        "brand": "TemperedGuard",
+        "price": "1599",
+        "description": "Anti-glare matte finish tempered glass for OnePlus 11.",
+        "category": "Tempered Glass",
+        "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/screen-guard/tempered-glass/g/4/m/vza-mat-uv-realme-10proplus-vzzr-original-imag8n3hzf5ayscr.jpeg?q=90&crop=false"
+      }
+    ]
+  }
+  
