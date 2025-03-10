@@ -71,7 +71,7 @@ function Shop() {
         {categoryProducts.map((product) => (
           <div
             key={product.id}
-            className="border-2 rounded-lg p-4 shadow-lg hover:shadow-2xl transition duration-300 bg-[#edf2f4]"
+            className="border-2 rounded-lg p-4 shadow-lg hover:shadow-2xl transition duration-300 bg-[#edf2f4] flex flex-col justify-between"
           >
             <img draggable='false'
               src={product.image}
